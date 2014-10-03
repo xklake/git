@@ -22,3 +22,6 @@ tesing....
 pulled by SourceTree
 
 only has a master branch..
+
+
+stage/reset
