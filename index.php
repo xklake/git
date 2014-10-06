@@ -35,5 +35,9 @@ stage/reset
 
 test branch
 
+<<<<<<< HEAD
 in master
 
+=======
+test in branch....
+>>>>>>> new_branch
